@@ -1,1 +1,5 @@
-ejemplo
+emplo
+segunda linea de texto de prueba
+pruebas con git 
+
+una linea nbueva se añade
