@@ -1,1 +1,2 @@
 ejemplo
+cambios realizados por otro desarrollador colaborativo.
